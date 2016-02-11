@@ -1,0 +1,36 @@
+.sk8ers {
+  display: block;
+  width: 100%;
+  border: 7px solid white;
+}
+.box-3col {
+  width: 66%;
+  display: inline-block;
+}
+.box-2col > section {
+  width: 49%;
+  display: inline-block;
+}
+.SteveCab {
+width: 33%;
+display: -webkit-inline-box;
+}
+.LanceMountain img {
+width: 100%;
+height: 181px;
+}
+.LanceMountain {
+
+}
+.RodneyMullen img{
+width: 100%;
+height: 100%auto;
+}
+.TommyG img{
+width: 99%;
+height:185px;
+}
+.SteveCab img{
+width: 100%;
+height: 325px;
+}

@@ -1,0 +1,159 @@
+#socButtons {
+  margin-left: 78%;
+  display: -webkit-inline-box; }
+
+h4 {
+  margin-right: 13px; }
+
+.box {
+  width: 100%;
+  text-align: center; }
+
+li {
+  width: 18%;
+  background-color: #C41313;
+  color: white;
+  display: -webkit-inline-box;
+  text-align: -webkit-center; }
+
+.container-3col {
+  display: block;
+  margin: 10px;
+  height: 100%;
+  margin-left: 0;
+  padding: 0px;
+  margin-bottom: 35PX; }
+  .container-3col div {
+    display: inline-block;
+    width: 30%;
+    display: inline-block;
+    width: 30%;
+    background-color: white;
+    margin: 4px; }
+
+#TH H3 {
+  text-align: center; }
+
+#RM H3 {
+  text-align: center; }
+
+#RB H3 {
+  text-align: center; }
+
+/*http://www.sitepoint.com/style-web-forms-css/*/
+form {
+  background: -webkit-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+  margin: auto;
+  position: relative;
+  width: 550px;
+  height: 450px;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 24px;
+  font-weight: bold;
+  color: gray;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid #999;
+  border: inset 1px solid #333;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3); }
+
+input {
+  width: 375px;
+  display: block;
+  border: 1px solid #999;
+  height: 25px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3); }
+
+textarea #feedback {
+  width: 375px;
+  height: 150px; }
+
+button {
+  width: 100px;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  background: #09C;
+  color: #fff;
+  font-family: Tahoma, Geneva, sans-serif;
+  height: 30px;
+  border-radius: 15px;
+  border: 1p solid #999; }
+
+body {
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+#wrapper {
+  width: 70%;
+  margin: 0 auto; }
+
+.mainImg img {
+  display: block;
+  max-height: 287px;
+  width: 68%;
+  background-repeat: no-repeat;
+  margin-left: 17%;
+  margin-bottom: 22px;
+  border: 7px solid white; }
+
+.perImg img {
+  display: block;
+  position: absolute;
+  top: 13%;
+  left: 19%;
+  width: 26%;
+  height: auto; }
+
+.topNper {
+  position: relative;
+  top: 0;
+  left: 0; }
+
+.sk8ers {
+  display: block;
+  width: 100%;
+  border: 7px solid white; }
+
+.box-3col {
+  width: 66%;
+  display: inline-block; }
+
+.box-2col > section {
+  width: 49%;
+  display: inline-block; }
+
+.SteveCab {
+  width: 33%;
+  display: -webkit-inline-box; }
+
+.LanceMountain img {
+  width: 100%;
+  height: 181px; }
+
+.RodneyMullen img {
+  width: 100%;
+  height: 100%auto; }
+
+.TommyG img {
+  width: 99%;
+  height: 185px; }
+
+.SteveCab img {
+  width: 100%;
+  height: 325px; }
+
+.sk8boards {
+  background-color: white;
+  margin-bottom: 45px; }
+
+.boards img {
+  display: inline-block;
+  width: 8%;
+  padding: 7px;
+  background-color: white;
+  list-style: none; }

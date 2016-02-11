@@ -1,0 +1,31 @@
+body {
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#wrapper {
+  width: 70%;
+margin: 0 auto;
+}
+.mainImg img {
+display: block;
+max-height: 287px;
+width: 68%;
+background-repeat: no-repeat;
+margin-left: 17%;
+margin-bottom: 22px;
+border: 7px solid white
+}
+.perImg img {
+  display: block;
+      position: absolute;
+      top: 13%;
+      left: 19%;
+      width: 26%;
+      height: auto;
+}
+.topNper {
+position: relative;
+top: 0;
+left: 0;
+}
